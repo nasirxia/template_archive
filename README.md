@@ -1,5 +1,8 @@
 # README
 
+## Initialization
+To create a repo for a new project, see the guide [here](https://github.com/nasirxia/template_archive/blob/master/initialize-from-temp.md).
+
 ## **Table of Contents**
 
  - [Requirements](#requirements)
